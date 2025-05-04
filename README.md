@@ -9,6 +9,8 @@
     <a href="https://pathway.com/developers/user-guide/deployment/render-deploy"> Deploy with Render </a>
 </p>
 
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/258e0c66-3cb4-40ec-a9fb-49322d5d07c2" />
+
 # Pathway RAG app with always up-to-date knowledge
 
 This demo shows how to create a real-time RAG application using [Pathway](https://github.com/pathwaycom/pathway) that provides always up-to-date knowledge to your LLM without the need for a separate ETL. 
