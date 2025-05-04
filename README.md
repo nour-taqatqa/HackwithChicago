@@ -10,7 +10,9 @@
 </p>
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/258e0c66-3cb4-40ec-a9fb-49322d5d07c2" />
-![image](https://github.com/user-attachments/assets/9f441a0d-d2c1-432b-b037-3c9e0b26baf5)
+
+![hack_with_chicago](https://github.com/user-attachments/assets/b6b5d178-97e4-4007-92fa-1106d2db7d86)
+
 
 
 # Pathway RAG app with always up-to-date knowledge
